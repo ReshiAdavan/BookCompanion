@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pUBV0r5EVczIKDZk+XICF3ZIFCOG1e6Ey8lanCZnKABMXEuoUtci02RcyVLMjejVOTRd7Qb2sJLrlHYW2EpM5A==",
+  "dgSpecHash": "BxXv9VMngkxjtaaCUdpnIQ0L3N4CXQM1RACkINonQScIcbiT2DmeUNfD4kBVhy96jWR/qdVLCvJg1cC1Thcgow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\reshi\\Desktop\\GitHubProjects\\BookCompanion\\BookListMVC.csproj",
+  "projectFilePath": "C:\\Users\\reshi\\Desktop\\Code\\GitHubProjects\\BookCompanion\\BookListMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\reshi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\reshi\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.11\\microsoft.aspnetcore.mvc.razor.extensions.3.1.11.nupkg.sha512",

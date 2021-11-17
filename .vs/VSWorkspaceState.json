@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Controllers"
+    "\\bin",
+    "\\Controllers",
+    "\\Migrations",
+    "\\Models",
+    "\\obj",
+    "\\Properties",
+    "\\Views",
+    "\\Views\\Home",
+    "\\wwwroot"
   ],
+  "SelectedNode": "\\BookListMVC.csproj.user",
   "PreviewInSolutionExplorer": false
 }

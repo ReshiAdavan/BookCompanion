@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reshi\\Desktop\\GitHubProjects\\BookCompanion\\BookListMVC.csproj": {}
+    "C:\\Users\\reshi\\Desktop\\Code\\GitHubProjects\\BookCompanion\\BookListMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reshi\\Desktop\\GitHubProjects\\BookCompanion\\BookListMVC.csproj": {
+    "C:\\Users\\reshi\\Desktop\\Code\\GitHubProjects\\BookCompanion\\BookListMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reshi\\Desktop\\GitHubProjects\\BookCompanion\\BookListMVC.csproj",
+        "projectUniqueName": "C:\\Users\\reshi\\Desktop\\Code\\GitHubProjects\\BookCompanion\\BookListMVC.csproj",
         "projectName": "BookListMVC",
-        "projectPath": "C:\\Users\\reshi\\Desktop\\GitHubProjects\\BookCompanion\\BookListMVC.csproj",
+        "projectPath": "C:\\Users\\reshi\\Desktop\\Code\\GitHubProjects\\BookCompanion\\BookListMVC.csproj",
         "packagesPath": "C:\\Users\\reshi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\reshi\\Desktop\\GitHubProjects\\BookCompanion\\obj\\",
+        "outputPath": "C:\\Users\\reshi\\Desktop\\Code\\GitHubProjects\\BookCompanion\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\reshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
