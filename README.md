@@ -1,6 +1,6 @@
 # BookCompanion
 
-When I was a kid, I always never liked to read books during class. My parents, tutors, peers and even older relatives always recommended that I read on my own time. Regardless of this, I always shunned reading, until after grade 12 when I learned of the importance of it especially in software development.
+When I was a kid, I never liked to read books during class. My parents, tutors, peers and even older relatives always recommended that I read on my own time. I always shunned reading, until after grade 12 when I learned of its importance.
 
 BookCompanion is a web-app that I made to help motivate me to read books and log them. I decided that I should challenge myself and create a web-app instead of jotting down reading logs the traditional way.
 
@@ -12,6 +12,6 @@ BookCompanion is a web-app that I made to help motivate me to read books and log
 
 ### Skills
 
-- Programming languages: HTML, Javascript, CSS
+- Programming languages: HTML, JavaScript, CSS
 - Libraries/Frameworks: React.js, Express.js, Node.js
 - Database: MongoDB
