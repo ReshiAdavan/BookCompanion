@@ -7,7 +7,7 @@ BookCompanion is a web-app that I made to help motivate me to read books and log
 ### Features
 
 - Compelling booklist UI which contains a table that organizes book logs by name, author and ISBN. Can also cycle between pages of entries via the table.
-- Incldues functionality and alerts for adding, editing and deleting book records.
+- Includes functionality and alerts for adding, editing and deleting book records.
 - Reading logs are pushed to a local SQL Database managed in SQL Server Management Studio (SSMS). Data can also be managed from SSMS.
 
 ### Skills
